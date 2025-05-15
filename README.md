@@ -65,4 +65,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for full 
 
 ---
 
-© 2025 Krystyne Kontos. PalmPilot 2000 was created as part of the MRAC Hardware seminar coursework and remains an open tool for experimentation and design education.
+© 2025 PalmPilot 2000 was created as part of the MRAC Hardware seminar coursework and remains an open tool for experimentation and design education.
