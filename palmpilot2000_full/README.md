@@ -4,7 +4,7 @@ PalmPilot 2000 is a gesture-based 2D layout prototyping tool that combines compu
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repo** and navigate inside:
 
